@@ -12,22 +12,41 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: About the OIG
+ #  href: /docs/
+   links:
+      - text: Offices
+        href: /about/offices.html
+      - text: Strategic Plan
+        href: /about/StrategicPlan.html
+      - text: OIG Leadership
+        href: /about/leadership/html
+      - text: OIG Timeline
+        href: /about/timeline.html
+      - text: Performance Reports
+        href: /about/PerformanceReports.html
+      - text: Careers
+        href: /about/careers.html
+    
+  - text: About Fraud Reporting
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
+      - text: Submit a Report
+        href: /fraud/SubmitAReport.html
+      - text: What is Fraud, Waste, or Abuse? 
+        href: /fraud/whatis.html
+      - text: What Do We Investigate?
+        href: /fraud/investigate.html
+      - text: Reporting Other Issues
+        href: /fraud/otherIssues.html
+      - text: What Info Must I Provide? 
+        href: /fraud/whatInfo.html
+      - text: What Will OIG Do With What I Report? 
+        href: /fraud/whatWillOIGDo.html
+      
+      - text: Whistleblower Rights and Protection
+        href: /fraud/whistleblowerRights.html
+      - text: Scam Awareness
+        href: /fraud/scamAwareness.html
   - text: Referenced section
     links: footer
   - text: External link
